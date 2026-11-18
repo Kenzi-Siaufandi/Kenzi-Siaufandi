@@ -22,10 +22,3 @@
   <a href="https://matrix.to/#/@kenzisiaufandi:matrix.org"><img src="https://img.shields.io/static/v1?label=&message=%5Bm%5D%20Matrix&color=000000&style=for-the-badge" alt="Matrix" /></a>
   <a href="https://discord.com/users/185604754947178496"><img src="https://img.shields.io/static/v1?label=&message=Discord&color=5865F2&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/Jiternos/github-stats/blob/master/generated/overview.svg" width="370">
-  <img src="https://github.com/Jiternos/github-stats/blob/master/generated/languages.svg" width="370">
-</p>
